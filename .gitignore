@@ -1,0 +1,26 @@
+# Novel project artifacts (generated during创作)
+00_memory/
+01_settings/
+02_outline/
+03_manuscript/
+04_editing/
+05_control/
+user-preferences.json
+writing-log.md
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
+*.log
